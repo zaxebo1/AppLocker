@@ -30,3 +30,5 @@ Download
 ========
 
 You can download the app from the Google Play Store at the following url: https://play.google.com/store/apps/details?id=com.twinone.locker
+
+the original source https://github.com/twinone/AppLocker is not found anymore
